@@ -1,7 +1,7 @@
 # Navi_Bus
 ## RV University, Semester 2 Final project 
 ## Bus Tracking System
-### A Bus tracking system used for everyday tracking of government buses, to give current location of a bus to it's upcoming bustop, and inter-connection of multiple bus stops to update every user of a bus's location
+### A bus tracking system is used for tracking government buses every day. It gives the current location of a bus to its upcoming bus stop and interconnects multiple bus stops to update every user of a bus's location.
 
 ## Hardware requirements
 - LoRa Ra-02        --> 2 pieces
