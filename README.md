@@ -1,6 +1,6 @@
 # Navi_Bus
-## RV University, Semester 2 Final project (EEX and ES-2)
-## Bus Tracking System.
+## RV University, Semester 2 Final project 
+## Bus Tracking System
 ### A Bus tracking system used for everyday tracking of government buses, to give current location of a bus to it's upcoming bustop, and inter-connection of multiple bus stops to update every user of a bus's location
 
 ## Hardware requirements
